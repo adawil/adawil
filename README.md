@@ -1,16 +1,15 @@
-## Hi there 👋
+💻 Desenvolvedor Full Stack | Designer Gráfico | Entusiasta de IA 🚀
 
-<!--
-**adawil/adawil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por tecnologia, desenvolvimento web e design, com experiência em front-end, back-end e criação de interfaces visuais. Tenho formação pelo BBA of Chicago e estou sempre buscando aprimorar minhas habilidades, explorando novas linguagens de programação e tendências em inteligência artificial.
 
-Here are some ideas to get you started:
+💡 Atualmente, foco em projetos que unem tecnologia e inovação, criando soluções eficientes e com impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Habilidades:
+🔹 Desenvolvimento Full Stack (Front-end & Back-end)
+🔹 Design Gráfico (CorelDRAW, Photoshop)
+🔹 Inteligência Artificial e Automação
+🔹 Criação e otimização de e-commerces
+🔹 UX/UI & Branding
+
+🚀 Sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
+
