@@ -1,15 +1,20 @@
-💻 Desenvolvedor Full Stack | Designer Gráfico | Entusiasta de IA 🚀
+## Olá, eu sou Adalton William (adawil) 👋
+✨ Desenvolvedor Full Stack | Designer Gráfico | Entusiasta de IA e UX
 
-Apaixonado por tecnologia, desenvolvimento web e design, com experiência em front-end, back-end e criação de interfaces visuais. Tenho formação pelo BBA of Chicago e estou sempre buscando aprimorar minhas habilidades, explorando novas linguagens de programação e tendências em inteligência artificial.
+Sou apaixonado por tecnologia, inovação e experiência do usuário, sempre explorando possibilidades para criar soluções impactantes. 🚀<br><br>
 
-💡 Atualmente, foco em projetos que unem tecnologia e inovação, criando soluções eficientes e com impacto real.
+## 🏢 **Atuação Profissional** <br>
+💻 Desenvolvedor Full Stack, com experiência em front-end e back-end.<br>
+🎨 Designer gráfico, especialista em identidade visual e criação de materiais digitais.<br>
+🤖 Entusiasta de Inteligência Artificial, explorando como a IA pode otimizar processos e experiências digitais.<br><br>
 
-📌 Habilidades: <br>
-🔹 Desenvolvimento Full Stack (Front-end & Back-end)<br>
-🔹 Design Gráfico (CorelDRAW, Photoshop)<br>
-🔹 Inteligência Artificial e Automação<br>
-🔹 Criação e otimização de e-commerces<br>
-🔹 UX/UI & Branding<br>
+## 📱 **Especialidades**<br>
+✔ Desenvolvimento Web (Front-end & Back-end)<br>
+✔ UX/UI Design e Identidade Visual<br>
+✔ Inteligência Artificial e Automação<br>
+✔ Criação de Sites e E-commerces<br><br>
 
-🚀 Sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
-
+## 🚀 **O que me motiva**<br>
+💡 Criar soluções tecnológicas inovadoras.<br>
+📚 Aprender e compartilhar conhecimento sobre desenvolvimento, design e IA.<br>
+🎯 Resolver desafios e construir experiências digitais marcantes.<br>
