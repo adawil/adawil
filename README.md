@@ -30,4 +30,5 @@ Alguns sites que desenvolvi em estilos completamente diferentes:<br>
 🔗 <a href="http://somarconsulting.com.br">somarconsulting.com.br</a><br>
 
 ## 📊 **Estatísticas no GitHub**<br>
-![adawil's Stats](https://github-readme-stats.vercel.app/api?username=adawil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![adawil's Stats](https://github-readme-stats.vercel.app/api?username=adawil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
+![adawil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adawil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
