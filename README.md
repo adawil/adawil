@@ -1,7 +1,7 @@
 ## Olá, eu sou Adalton William (adawil) 👋
 ✨ Desenvolvedor Full Stack | Designer Gráfico | Entusiasta de IA e UX
 
-Sou apaixonado por tecnologia, inovação e experiência do usuário, sempre explorando possibilidades para criar soluções impactantes. 🚀<br><br>
+Sou apaixonado por tecnologia, inovação e experiência do usuário, sempre explorando possibilidades para soluções impactantes. 🚀<br><br>
 
 ## 🏢 **Atuação Profissional** <br>
 💻 Desenvolvedor Full Stack, com experiência em front-end e back-end.<br>
